@@ -1,3 +1,7 @@
+# CDN优化地址：
+``` shell
+https://jsdelivr.240723.xyz/gh/RichardQt/{仓库名称}/{文件名}
+```
 # vercel-jsdelivr-mirror
 
 > [!TIP]
